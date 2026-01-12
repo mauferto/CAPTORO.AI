@@ -1,0 +1,8 @@
+{
+  "name": "CAPTORO.AI",
+  "description": "Professional AI Content Intelligence & Virality Engine.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
